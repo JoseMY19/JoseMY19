@@ -19,7 +19,7 @@ Hello, I'm Jose Milla!
 
 - 🚀 I’m on the path to becoming a **Backend Developer (Junior → Senior)**
 
-## <b> Knowledge Base 🛠️</b>
+## <b>🛠️ Knowledge Base </b>
 <br>
 
 <p align="center">
@@ -48,10 +48,21 @@ Hello, I'm Jose Milla!
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+
 - **Software**:
   
   ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 Stats
+
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoseMY19&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMY19&theme=tokyonight" />
+</p>
+
+<br>
   
