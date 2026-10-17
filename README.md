@@ -9,7 +9,7 @@ Hello, I'm Jose Milla!
 
 <h3 align="center">A passionate Backend Developer in progress from Peru</h3>
 
-- 🔭 I’m currently working on my **web application with JavaScript**
+- 🔭 I’m currently working on my **web application with TypeScript**
 
 - 🌱 I’m currently learning **JavaScript, Node.js, PostgreSQL and Supabase**
 
@@ -17,7 +17,7 @@ Hello, I'm Jose Milla!
 
 - ⚡ What I like to do: **I really enjoy football, video games, and of course, programming**
 
-- 🚀 I’m on the path to becoming a **Backend Developer (Junior → Senior)**
+- 🚀 I’m on the path to becoming a **FullStack Developer (Junior → Senior)**
 
 ## <b>🛠️ Knowledge Base </b>
 <br>
