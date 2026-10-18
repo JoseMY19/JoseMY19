@@ -7,7 +7,7 @@ Hello, I'm Jose Milla!
 
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="center">A passionate Backend Developer in progress from Peru</h3>
+<h3 align="center">A passionate FullStack Developer from Peru</h3>
 
 - 🔭 I’m currently working on my **web application with TypeScript**
 
