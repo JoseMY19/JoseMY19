@@ -11,7 +11,7 @@ Hello, I'm Jose Milla!
 
 - 🔭 I’m currently working on my **web application with TypeScript**
 
-- 🌱 I’m currently learning **JavaScript, Node.js, PostgreSQL and Supabase**
+- 🌱 I’m currently learning **TypeScript, Node.js, PostgreSQL and Supabase**
 
 - 📫 How to reach me: **joseedsonmilla@gmail.com**
 
